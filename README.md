@@ -1,2 +1,2 @@
 # portfolio
-Portifólio pessoal.
+Portfólio pessoal.
