@@ -1,0 +1,242 @@
+@font-face {
+    font-family: 'DM Sans';
+    src: url(assets/fonts/DM_Sans/DMSans-VariableFont_opsz\,wght.ttf);
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url(assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+:root {
+    --h1-size: 90px;
+    --h2-size: 54px;
+    --h3-size: 32px;
+    --h4-size: 26px;
+    --h5-size: 18px;
+    --large-size: 22px;
+    --medium-size: 16px;
+    --destaque-size: 20px;
+    --label-size: 14px;
+    --tag-size: 13px;
+    --layout-padding: 0 128px;
+
+    --shadow-default: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    --shadow-2: 0px 2px 12px 0px rgba(20, 20, 43, 0.08);
+
+    --primary-color: #183EC2;
+    --secondary-color: #183EC260;
+    --third-color: #eaeefe;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+    border: none;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+#root {
+    overflow: hidden;
+}
+
+body {
+    min-height: 100vh;
+    height: 150vh;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+main {
+    margin-top: 5em;
+}
+
+section:not(#contato) {
+    min-height: calc(100vh - 5em);
+}
+
+section#contato {
+    height: calc(70vh - 5em);
+}
+
+header,
+section>div {
+    padding: var(--layout-padding);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding-right: .1em;
+}
+
+h1 {
+    font-size: var(--h1-size);
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -5.85px;
+    font-family: 'DM Sans';
+    line-height: 90px;
+}
+
+h2 {
+    font-size: var(--h2-size);
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -3.24px;
+    font-family: 'DM Sans';
+    /* line-height: 60px; */
+}
+
+h3 {
+    font-size: var(--h3-size);
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -1.04px;
+    font-family: 'DM Sans';
+}
+
+h4 {
+    font-size: var(--h4-size);
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -1.04px;
+    /* line-height: 60px; */
+    font-family: 'DM Sans';
+}
+
+h5 {
+    font-size: var(--h5-size);
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -0.558px;
+    /* line-height: normal; */
+    font-family: 'DM Sans';
+}
+
+p {
+    font-size: var(--large-size);
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.792px;
+    font-family: 'Inter';
+}
+
+p.medium {
+    font-size: var(--medium-size);
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.16px;
+    font-family: 'Inter';
+    /* line-height: 23px; */
+}
+
+li {
+    font-size: var(--default-size);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.32px;
+    font-family: 'Inter';
+}
+
+button {
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: -0.32px;
+    font-family: 'Inter';
+    /* line-height: normal; */
+}
+
+span {
+    font-size: var(--medium-size);
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.16px;
+    /* line-height: 23px; */
+}
+
+label {
+    font-size: var(--label-size);
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'Inter';
+}
+
+cite,
+.destaque {
+    font-size: var(--destaque-size);
+}
+
+span.tag {
+    font-size: var(--tag-size);
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: -0.325px;
+    /* line-height: 31px; */
+    font-family: 'Inter';
+}
+
+.link {
+    cursor: pointer;
+}
+
+@media (max-width: 991.98px) {
+    :root {
+        --h1-size: 90px;
+        --h2-size: 40px;
+        --h3-size: 30px;
+        --h4-size: 25px;
+        --h5-size: 20px;
+        --p-size: 16px;
+        --label-size: 14px;
+        --destaque-size: 18px;
+        --layout-padding: 0 64px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    :root {
+        --h1-size: 54px;
+        --h2-size: 40px;
+        --h3-size: 30px;
+        --h4-size: 25px;
+        --h5-size: 20px;
+        --p-size: 16px;
+        --label-size: 14px;
+        --destaque-size: 18px;
+        --layout-padding: 0 24px;
+    }
+
+    h1 {
+        font-style: normal;
+        font-weight: 600;
+        line-height: 60px;
+    }
+
+    h2 {
+        letter-spacing: -0.32px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    :root {
+        --label-size: 12px;
+    }
+
+    h1 {
+        letter-spacing: -1.35px;
+    }
+}

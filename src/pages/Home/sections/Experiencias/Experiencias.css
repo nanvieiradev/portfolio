@@ -1,0 +1,31 @@
+#experiencias {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--layout-padding);
+    padding-top: 3em;
+    padding-bottom: 3em;
+    background-color: #fff;
+}
+
+#experiencias>ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    margin-top: 6em;
+    width: 100%;
+}
+
+
+@media (max-width: 1199.98px) {
+    #experiencias>ul {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 700.98px) {
+    #experiencias>ul {
+        grid-template-columns: 1fr;
+        width: auto;
+    }
+}
