@@ -31,7 +31,7 @@ const Footer = () => {
       </div>
       <hr />
       <label id='copy'>
-        &copy; Direitos Autorais 2024. Feito por <ScrollLink to='banner' smooth={true} duration={100} offset={-80} className='footer-link'>Renan Vieira</ScrollLink>
+        &copy; Direitos Autorais 2024. Feito por <ScrollLink to='banner' smooth={true} duration={300} offset={-80} className='footer-link'>Renan Vieira</ScrollLink>
       </label>
     </footer>
   )
