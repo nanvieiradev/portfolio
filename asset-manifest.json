@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b0f6419a.css",
+    "main.js": "/portfolio/static/js/main.56a3c295.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/portfolio/static/media/Inter-VariableFont_slnt,wght.853e01975d2783d9fa29.ttf",
+    "static/media/Gooday_cover.png": "/portfolio/static/media/Gooday_cover.88ce5117cf2c58bd6438.png",
+    "static/media/RENAN_VIEIRA_CV.pdf": "/portfolio/static/media/RENAN_VIEIRA_CV.721223e3d41abffec0dd.pdf",
+    "static/media/star.png": "/portfolio/static/media/star.47f9abb3b7cd7ed22b5f.png",
+    "static/media/DMSans-VariableFont_opsz,wght.ttf": "/portfolio/static/media/DMSans-VariableFont_opsz,wght.b230ddb7eabb4b25e123.ttf",
+    "static/media/helix.png": "/portfolio/static/media/helix.129243f1e2c8334a1e6c.png",
+    "static/media/star2.png": "/portfolio/static/media/star2.f5857b03b62ee42665ac.png",
+    "static/media/cylinder.png": "/portfolio/static/media/cylinder.bf79d3b6d09276bd3c64.png",
+    "static/media/donut.png": "/portfolio/static/media/donut.df73dfb2358b272acef2.png",
+    "static/media/social_discord.svg": "/portfolio/static/media/social_discord.e1974b142c536e9ce0cdfbd9001f793c.svg",
+    "static/media/social_instagram.svg": "/portfolio/static/media/social_instagram.afe8ad2646450737e085a22d4dec8401.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/confirm_black.svg": "/portfolio/static/media/confirm_black.0353825ae77314bd5bdd2e71f226dd10.svg",
+    "static/media/confirm_white.svg": "/portfolio/static/media/confirm_white.378c767d495d6c05a4762f9b37317d96.svg",
+    "static/media/arrow_right.svg": "/portfolio/static/media/arrow_right.2ab5efe86c9d69d25ab8b517ab2a9795.svg",
+    "static/media/social_github.svg": "/portfolio/static/media/social_github.354b626a1271e25d0a36092da2886ae6.svg",
+    "static/media/social_linkedin.svg": "/portfolio/static/media/social_linkedin.275d8a2ebbf9d42d5a9ba1df92405110.svg",
+    "static/media/close.svg": "/portfolio/static/media/close.bd2f1562b4294a98ef6dc8888b5ee7c1.svg",
+    "static/media/menu.svg": "/portfolio/static/media/menu.b6d887f7f3df8a70f31f33e9a14611e4.svg",
+    "static/media/social_twitter.svg": "/portfolio/static/media/social_twitter.e22a47c78c5358702e0623ba4e0cf2a0.svg",
+    "static/media/triangle_down.svg": "/portfolio/static/media/triangle_down.40506b2a91c7db950de0.svg",
+    "main.b0f6419a.css.map": "/portfolio/static/css/main.b0f6419a.css.map",
+    "main.56a3c295.js.map": "/portfolio/static/js/main.56a3c295.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f6419a.css",
+    "static/js/main.56a3c295.js"
+  ]
+}
