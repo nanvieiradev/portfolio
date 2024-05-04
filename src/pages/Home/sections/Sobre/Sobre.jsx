@@ -30,7 +30,7 @@ const Sobre = () => {
               Estou aberto a <strong>oportunidades de trabalho</strong> onde possa contribuir, aprender e crescer. Se tiver uma boa oportunidade que corresponda às minhas competências e experiência, não hesite em me <strong>contatar</strong>.
             </p>
           </div>
-          <ScrollLink to='contato' smooth={true} duration={300} className='scroll-contato'>
+          <ScrollLink to='contato' smooth={true} duration={100} className='scroll-contato'>
             <button className='cta'>
               Contato
               <img src={arrow_right} alt="" />
