@@ -1,10 +1,10 @@
 import './Projetos.css'
 import React from 'react'
 import Card from './Cards/Card'
-import Arrow_right from '../../../../assets/icons/arrow_right.svg'
+// import Arrow_right from '../../../../assets/icons/arrow_right.svg'
 import Intro from '../../../../components/Intro/Intro'
-import Tag from '../../../../components/Tag/Tag'
-import { Link } from 'react-router-dom'
+// import Tag from '../../../../components/Tag/Tag'
+// import { Link } from 'react-router-dom'
 import GoodayCover from '../../../../assets/images/projects/Gooday_cover.png'
 
 const Projetos = () => {
