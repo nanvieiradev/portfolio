@@ -27,7 +27,7 @@ const Banner = () => {
                 <p>Apaixonado por código e design, sou um desenvolvedor web com 5 anos de experiência no mundo da programação.</p>
                 <div id="ctas">
                     <button className='cta' onClick={handleDownload}>Baixar currículo</button>
-                    <ScrollLink to='contato' smooth={true} duration={100}>
+                    <ScrollLink to='contato' smooth={true} duration={300}>
                         <button className='cta'>Contato<img src={arrow_right} alt="" /></button>
                     </ScrollLink>
                 </div>
