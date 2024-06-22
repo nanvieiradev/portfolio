@@ -24,7 +24,7 @@ const Sobre = () => {
           <h3>Me conheça!</h3>
           <div id="text">
             <p className='medium'>
-              Sou um <strong>Desenvolvedor Web Full Stack</strong> e <strong>estudante de UI/UX Design,</strong> construindo e gerenciando o Front e Back-end de sites e aplicações Web e projetando protótipos de interface que levam ao sucesso do produto geral. Confira alguns dos meus trabalhos na seção <strong>Projetos</strong>.
+              Sou um <strong>Desenvolvedor Web Full Stack</strong> e <strong>aprendiz de UI/UX Design,</strong> construindo e gerenciando o Front e Back-end de sites e aplicações Web e projetando protótipos de interface que levam ao sucesso do produto geral. Confira alguns dos meus trabalhos na seção <strong>Projetos</strong>.
             </p>
             <p className='medium'>
               Estou aberto a <strong>oportunidades de trabalho</strong> onde possa contribuir, aprender e crescer. Se tiver uma boa oportunidade que corresponda às minhas competências e experiência, não hesite em me <strong>contatar</strong>.
