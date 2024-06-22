@@ -53,6 +53,7 @@ const Sobre = () => {
                 <Skill name='NodeJS' />
                 <Skill name='ReactJS' />
                 <Skill name='ReduxJS' />
+                <Skill name='Jest' />
                 <Skill name='Tailwind CSS' />
                 <Skill name='MySQL' />
                 <Skill name='Git' />
