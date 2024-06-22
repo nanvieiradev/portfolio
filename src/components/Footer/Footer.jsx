@@ -15,7 +15,7 @@ const Footer = () => {
         <div id="text">
           <h5>Nanvieira DEV</h5>
           <label className='fixed-size'>
-            Um Desenvolvedor Web Full Stack e estudante de UI/UX Design, construindo e gerenciando o Front e Back-end de sites e aplicações Web e projetando protótipos de interface que levam ao sucesso do produto geral. 💎
+            Um Desenvolvedor Web Full Stack e aprendiz de UI/UX Design, construindo e gerenciando o Front e Back-end de sites e aplicações Web e projetando protótipos de interface que levam ao sucesso do produto geral. 💎
           </label>
         </div>
         <div id="social">
