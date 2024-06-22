@@ -23,11 +23,11 @@ const Footer = () => {
         <div id="social">
           <h5>Social</h5>
           <div id="social-medias">
-            <Link to='https://twitter.com/nanvieiradev' target='_black' rel='noopener noreferrer'><img src={SocialTwitter} alt="Twitter" /></Link>
-            <Link to='https://instagram.com/nanvieiradev' target='_black' rel='noopener noreferrer'><img src={SocialInstagram} alt="Instagram" /></Link>
-            <Link to='https://linkedin.com/in/nanvieiradev' target='_black' rel='noopener noreferrer'><img src={SocialLinkedIn} alt="LinkedIn" /></Link>
-            <Link to='https://github.com/nanvieiradev' target='_black' rel='noopener noreferrer'><img src={SocialGitHub} alt="GitHub" /></Link>
-            <Link to='https://discord.com/users/300706687185190913' target='_black' rel='noopener noreferrer'><img src={SocialDiscord} alt="Discord" /></Link>
+            <Link to='https://twitter.com/nanvieiradev' target='_black' rel='noopener noreferrer'><img src={SocialTwitter} title='Twitter' alt="Twitter" /></Link>
+            <Link to='https://instagram.com/nanvieiradev' target='_black' rel='noopener noreferrer'><img src={SocialInstagram} title='Instagram' alt="Instagram" /></Link>
+            <Link to='https://linkedin.com/in/nanvieiradev' target='_black' rel='noopener noreferrer'><img src={SocialLinkedIn} title='LinkedIn' alt="LinkedIn" /></Link>
+            <Link to='https://github.com/nanvieiradev' target='_black' rel='noopener noreferrer'><img src={SocialGitHub} title='GitHub' alt="GitHub" /></Link>
+            <Link to='https://discord.com/users/300706687185190913' target='_black' rel='noopener noreferrer'><img src={SocialDiscord} title='Discord' alt="Discord" /></Link>
           </div>
         </div>
       </div>
