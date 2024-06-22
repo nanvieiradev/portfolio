@@ -64,8 +64,6 @@ const Sobre = () => {
                 <Skill name='Figma' />
                 <Skill name='Adobe Photoshop' />
                 <Skill name='Adobe Illustrator' />
-                <Skill name='Adobe Lightroom' />
-                <Skill name='CorelDRAW' />
               </div>
             )}
             {selectedCategory === 'tools' && (
@@ -74,8 +72,8 @@ const Sobre = () => {
                 <Skill name='Postman' />
                 <Skill name='GitHub' />
                 <Skill name='GitHub Desktop' />
+                <Skill name='XAMPP' />
                 <Skill name='MySQL Workbench' />
-                <Skill name='FileZilla' />
               </div>
             )}
           </div>
