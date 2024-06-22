@@ -57,7 +57,7 @@ const Sobre = () => {
                 <Skill name='Tailwind CSS' />
                 <Skill name='MySQL' />
                 <Skill name='Git' />
-                <Skill name='Markdown' />
+                <Skill name='Regex' />
               </div>
             )}
             {selectedCategory === 'design' && (
