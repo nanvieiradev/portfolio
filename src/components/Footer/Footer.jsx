@@ -9,6 +9,8 @@ import SocialGitHub from '../../assets/icons/social/social_github.svg'
 import SocialDiscord from '../../assets/icons/social/social_discord.svg'
 
 const Footer = () => {
+  const currentYear = new Date().getFullYear()
+
   return (
     <footer>
       <div id='content'>
@@ -31,7 +33,7 @@ const Footer = () => {
       </div>
       <hr />
       <label id='copy'>
-        &copy; Direitos Autorais 2024. Feito por <ScrollLink to='banner' smooth={true} duration={300} offset={-80} className='footer-link'>Renan Vieira</ScrollLink>
+        &copy; Direitos Autorais {currentYear}. Feito por <ScrollLink to='banner' smooth={true} duration={300} offset={-80} className='footer-link'>Renan Vieira</ScrollLink>
       </label>
     </footer>
   )
