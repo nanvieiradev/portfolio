@@ -23,8 +23,8 @@ const Banner = () => {
         <section id='banner'>
             <div id="content">
                 <Tag content='Opa! 👋 Eu sou o Nanvieira' />
-                <h1>Full Stack Developer</h1>
-                <p>Apaixonado por código e design, sou um desenvolvedor web com 5 anos de experiência no mundo da programação.</p>
+                <h1>Web Full Stack Developer</h1>
+                <p>Sou um desenvolvedor web com 5 anos de experiência no mundo da programação e do design.</p>
                 <div id="ctas">
                     <button className='cta' onClick={handleDownload}>Baixar currículo</button>
                     <ScrollLink to='contato' smooth={true} duration={300}>
