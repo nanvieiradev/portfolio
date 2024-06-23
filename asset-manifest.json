@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b0f6419a.css",
+    "main.css": "/portfolio/static/css/main.f0175f4b.css",
     "main.js": "/portfolio/static/js/main.0ab454f4.js",
     "static/media/RENAN_VIEIRA_CV.pdf": "/portfolio/static/media/RENAN_VIEIRA_CV.49a923601194ab4fc4de.pdf",
     "static/media/Inter-VariableFont_slnt,wght.ttf": "/portfolio/static/media/Inter-VariableFont_slnt,wght.853e01975d2783d9fa29.ttf",
@@ -23,11 +23,11 @@
     "static/media/menu.svg": "/portfolio/static/media/menu.b6d887f7f3df8a70f31f33e9a14611e4.svg",
     "static/media/social_twitter.svg": "/portfolio/static/media/social_twitter.e22a47c78c5358702e0623ba4e0cf2a0.svg",
     "static/media/triangle_down.svg": "/portfolio/static/media/triangle_down.40506b2a91c7db950de0.svg",
-    "main.b0f6419a.css.map": "/portfolio/static/css/main.b0f6419a.css.map",
+    "main.f0175f4b.css.map": "/portfolio/static/css/main.f0175f4b.css.map",
     "main.0ab454f4.js.map": "/portfolio/static/js/main.0ab454f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0f6419a.css",
+    "static/css/main.f0175f4b.css",
     "static/js/main.0ab454f4.js"
   ]
 }
