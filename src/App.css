@@ -51,7 +51,7 @@ body {
 body {
     min-height: 100vh;
     height: 150vh;
-    background-color: #fff;
+    background-color: var(--third-color);
     overflow-x: hidden;
 }
 
