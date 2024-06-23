@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b0f6419a.css",
-    "main.js": "/portfolio/static/js/main.c0d350cd.js",
-    "static/media/RENAN_VIEIRA_CV.pdf": "/portfolio/static/media/RENAN_VIEIRA_CV.506221db481a58735c2f.pdf",
+    "main.js": "/portfolio/static/js/main.61942764.js",
+    "static/media/RENAN_VIEIRA_CV.pdf": "/portfolio/static/media/RENAN_VIEIRA_CV.49a923601194ab4fc4de.pdf",
     "static/media/Inter-VariableFont_slnt,wght.ttf": "/portfolio/static/media/Inter-VariableFont_slnt,wght.853e01975d2783d9fa29.ttf",
     "static/media/Gooday_cover.png": "/portfolio/static/media/Gooday_cover.88ce5117cf2c58bd6438.png",
     "static/media/star.png": "/portfolio/static/media/star.47f9abb3b7cd7ed22b5f.png",
@@ -24,10 +24,10 @@
     "static/media/social_twitter.svg": "/portfolio/static/media/social_twitter.e22a47c78c5358702e0623ba4e0cf2a0.svg",
     "static/media/triangle_down.svg": "/portfolio/static/media/triangle_down.40506b2a91c7db950de0.svg",
     "main.b0f6419a.css.map": "/portfolio/static/css/main.b0f6419a.css.map",
-    "main.c0d350cd.js.map": "/portfolio/static/js/main.c0d350cd.js.map"
+    "main.61942764.js.map": "/portfolio/static/js/main.61942764.js.map"
   },
   "entrypoints": [
     "static/css/main.b0f6419a.css",
-    "static/js/main.c0d350cd.js"
+    "static/js/main.61942764.js"
   ]
 }
