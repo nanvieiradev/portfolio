@@ -50,9 +50,9 @@ const Sobre = () => {
                 <Skill name='HTML' />
                 <Skill name='CSS' />
                 <Skill name='JavaScript' />
-                <Skill name='NodeJS' />
-                <Skill name='ReactJS' />
-                <Skill name='ReduxJS' />
+                <Skill name='Node' />
+                <Skill name='React' />
+                <Skill name='Redux' />
                 <Skill name='Jest' />
                 <Skill name='MySQL' />
                 <Skill name='Git' />
