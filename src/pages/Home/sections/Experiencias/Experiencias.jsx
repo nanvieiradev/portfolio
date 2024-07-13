@@ -16,14 +16,14 @@ const Experiencias = () => {
                     outcomes={['5° lugar Nacional', '2° lugar Nordeste']}
                     darkConfirm={true}
                 />
-                {/* <Item
-                    responsability='Competidor'
-                    title='WorldSkills Brasil'
-                    area='SENAI - Tecnologias WEB'
+                <Item
+                    responsability='Líder UI/UX, Designer'
+                    title='Cadê Você?'
+                    area='Projeto independente - Design'
                     date='Julho 2022 - Outubro 2023'
-                    outcomes={['5° lugar Nacional', '2° lugar Nordeste']}
+                    outcomes={['Líder responsável pela equipe', 'Construtor da prototipagem']}
                     darkConfirm={false}
-                /> */}
+                />
             </ul>
         </section>
     )

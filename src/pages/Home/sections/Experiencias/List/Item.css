@@ -15,6 +15,7 @@
 .xp-item:nth-child(even) {
     background-color: #000;
     color: #fff;
+    border-color: #000;
 }
 
 .xp-item:nth-child(even) .area {
