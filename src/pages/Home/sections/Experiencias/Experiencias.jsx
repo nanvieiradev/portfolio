@@ -23,7 +23,7 @@ const Experiencias = () => {
                     date='Julho 2022 - Outubro 2023'
                     outcomes={['Líder responsável pela equipe', 'Construtor da prototipagem']}
                     darkConfirm={false}
-                />
+                />                
             </ul>
         </section>
     )

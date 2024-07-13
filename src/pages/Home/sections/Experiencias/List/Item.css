@@ -33,6 +33,11 @@
     color: #fff;
 }
 
+.xp-item img{
+    max-width: 17px;
+    max-height: 20px;
+}
+
 .xp-item .outcomes {
     display: flex;
     flex-direction: column;
